@@ -1,0 +1,16 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "Primer proyecto en javascript y nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "ecmascript"
+  ],
+  "author": "Jose Reynoso <reynosojose2005@gmail.com>",
+  "license": "MIT"
+}
